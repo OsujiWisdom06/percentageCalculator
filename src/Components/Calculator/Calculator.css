@@ -11,7 +11,6 @@
     width: 50%;
     height: 70%;
     background-color: #e3f2fd;
-    border-radius: 15px;
 }
 
 .header{
@@ -202,11 +201,13 @@
     .button{
         font-size: 10px;
         font-weight: 600;
+        color: black;
     }
 
     .reset{
         font-size: 10px;
         font-weight: 600;
+        color: black;
     }
 
     .input{
@@ -258,11 +259,13 @@
     .button{
         font-size: 12px;
         font-weight: 600;
+        color: black;
     }
 
     .reset{
         font-size: 12px;
         font-weight: 600;
+        color: black;
     }
 
     .input{
@@ -315,11 +318,13 @@
     .button{
         font-size: 12px;
         font-weight: 600;
+        color: black;
     }
 
     .reset{
         font-size: 12px;
         font-weight: 600;
+        color: black;
     }
 
     .input{
